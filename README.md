@@ -2,7 +2,7 @@
 
 # **the team project**
 1_ kariem ibrahiem ali 
-2_ mahmoud elsodany
+2_ mahmoud fathy abdallah
 3_ yousef zaza 
 4_ marwan 
 5_ Ranial ali
